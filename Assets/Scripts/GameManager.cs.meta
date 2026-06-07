@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dee38b9c1a0a135468a960314419c1d9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyPrefab: {instanceID: 0}
+  - pauseMenu: {instanceID: 0}
+  - roundNum: {instanceID: 0}
+  - roundsSurvived: {instanceID: 0}
+  - endScreen: {instanceID: 0}
+  - blackScreenAnimator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
